@@ -17,7 +17,9 @@ Constraints:
 5. There will be at least two friends in the grid.
 ```
 
-# Implementation 1 : Time Limit Exceeded
+# Implementation 1 : Naive : Time Limit Exceeded
+Find out the distance from each cell of the grid and return the minimum distance.
+
 ```java
 class Solution {
     public int minTotalDistance(int[][] grid) {
