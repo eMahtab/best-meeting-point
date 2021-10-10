@@ -5,6 +5,7 @@ The total travel distance is the sum of the distances between the houses of the 
 
 The distance is calculated using Manhattan Distance, where distance(p1, p2) = |p2.x - p1.x| + |p2.y - p1.y|.
 
+!["Best Meeting Point"](example.JPG?raw=true)
 
 # Implementation 1 : Time Limit Exceeded
 ```java
