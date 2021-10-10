@@ -7,6 +7,16 @@ The distance is calculated using Manhattan Distance, where distance(p1, p2) = |p
 
 !["Best Meeting Point"](example.JPG?raw=true)
 
+```
+Constraints:
+
+1. m == grid.length
+2. n == grid[i].length
+3. 1 <= m, n <= 200
+4. grid[i][j] is either 0 or 1.
+5. There will be at least two friends in the grid.
+```
+
 # Implementation 1 : Time Limit Exceeded
 ```java
 class Solution {
