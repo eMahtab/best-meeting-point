@@ -1,4 +1,10 @@
 # Best Meeting Point
+Given an m x n binary grid grid where each 1 marks the home of one friend, return the minimal total travel distance.
+
+The total travel distance is the sum of the distances between the houses of the friends and the meeting point.
+
+The distance is calculated using Manhattan Distance, where distance(p1, p2) = |p2.x - p1.x| + |p2.y - p1.y|.
+
 
 # Implementation 1 : Time Limit Exceeded
 ```java
