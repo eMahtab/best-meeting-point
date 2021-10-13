@@ -97,3 +97,10 @@ class Solution {
     }
 }
 ```
+
+### Complexity analysis
+```
+Time complexity : O(mn), where m is number of rows and n is number of columns.
+
+Space complexity : O(mn), where m is number of rows and n is number of columns.
+```
