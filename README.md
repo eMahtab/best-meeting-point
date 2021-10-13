@@ -17,6 +17,8 @@ Constraints:
 5. There will be at least two friends in the grid.
 ```
 
+## 💥💥💥 : Note that, meeting point can be either a house(1 cell) or 0 cell. 
+
 # Implementation 1 : Naive : Time Limit Exceeded
 Find out the distance from each cell of the grid and return the minimum distance.
 
